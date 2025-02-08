@@ -1,2 +1,2 @@
-# lua-logger
+# 🪵 Lua Logger
 A logger I made in lua
